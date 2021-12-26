@@ -2,7 +2,6 @@
     "name": "panelssh/laravel-backend",
     "description": "Panel SSH - Laravel Backend",
     "license": "Apache-2.0",
-    "version": "0.0.1",
     "authors": [
         {
             "name": "Panel SSH",
